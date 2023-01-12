@@ -45,12 +45,12 @@ class Comment extends React.Component{
                 </div>
                 <div className="Second">
                     <div>
-                        <button><img id="comment-author" src={author}></img></button>
+                        <button><img id="comment-author" alt='comment author'src={author}></img></button>
                         <h6>{this.props.data.author}</h6>
                     </div>
                     <div >
                         <h6>{this.state.comments.length}</h6>
-                        <button onClick={this.handleComment}><img id="comment-comments" src={commentIcon}></img></button>
+                        <button onClick={this.handleComment}><img id="comment-comments" src={commentIcon} alt="comments"></img></button>
                     </div>
                     
                 </div>

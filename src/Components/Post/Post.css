@@ -1,0 +1,111 @@
+.Post{
+    background-color: white;
+    border-radius: 1rem;
+    margin: 3vh 1vw;
+    box-shadow: 0px 0.4em 5px rgba(0,0,0,0.15);
+    width: 75vw;
+    min-width: none;
+    max-width: 100%;
+    height: auto;
+}
+.Top{
+    display: flex;
+    justify-content: flex-start;
+    
+}
+.score h5 {
+    margin: 0rem 1.5rem 0rem 1.5rem;
+    font-size: larger;
+}
+.score{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 1rem;
+}
+.score h6{
+    margin:  0rem 1.5rem;
+    color:rgba(0, 0, 0, 0.605);
+    
+}
+#prefix{
+    word-break: break-all;
+ 
+  
+  
+}
+.Info{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+.Info img{  
+    
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+    margin-right: 1rem;
+    border-radius: 1rem;
+    
+}
+.content{
+   
+    max-width: 100%;
+    max-height: 100%;
+    
+    
+    margin-right: 1rem;
+    border-radius: 1rem;
+}
+
+.content > iframe{
+    position:static !important;
+    width: 30vw;
+    height: 70vh;
+    border-radius: 1rem;
+}
+.Bottom{
+    display: flex;
+    
+    justify-content: space-around;
+    margin: 0rem ;
+    font-size: larger;
+}
+.Bottom div{
+    display: flex;
+    
+    flex-direction: row;
+    align-items:center;
+}
+#comments{
+    width: 1.2rem;
+    height:auto;
+}
+#author{
+    width: 1.2rem;
+    height:auto;
+}
+.Comments{
+   
+    
+}
+p{
+    word-break:break-all;
+    width: 100%;
+    height: auto;
+    
+}
+a{
+    color: inherit;
+}
+
+.comment-loader{
+    display: none;
+    justify-content: center;
+  }
+  .comment-loader img{
+    width: 5rem;
+    height: auto;
+    border-radius: 5rem;
+    box-shadow: 0px 0.4em 5px rgba(0,0,0,0.15);
+  }

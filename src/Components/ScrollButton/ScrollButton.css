@@ -1,0 +1,12 @@
+#scrollButton{
+    position:fixed;
+    z-index: 10;
+    position: fixed;
+    right: 2vw; bottom: 2vh;
+    border-radius: 1rem;
+    box-shadow: 0px 0.4em 5px rgba(0, 0, 0, 0.436);
+}
+#scrollButton img{
+    width:1.5rem;
+    height: auto;
+}

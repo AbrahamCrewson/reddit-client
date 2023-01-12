@@ -1,0 +1,11 @@
+.Content{
+    height: 100%;
+    min-width: none;
+}
+.Posts{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: stretch;
+    
+}

@@ -1,0 +1,69 @@
+.Comment{
+    
+    background-color: rgb(255, 255, 255);
+    border-radius: 1rem;
+   
+    margin: 1rem 3vw 1rem 6vw;
+    box-shadow: 0px 0.4em 5px rgba(0,0,0,0.15);
+    
+    min-width: none;
+    max-width: 80%;
+
+}
+.First{
+    display: flex;
+    justify-content: flex-start;
+ 
+    
+}
+.upvotes h5 {
+    margin: 1.5rem 1.5rem 0rem 1.5rem;
+    font-size: large;
+}
+.upvotes{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.upvotes h6{
+    margin:  0rem 1.5rem 1.5rem 1.5rem;
+    color:rgba(0, 0, 0, 0.605);
+}
+.body{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    
+}
+
+.Second{
+    display: flex;
+    justify-content: space-around;
+    margin: 0rem;
+    max-height: 100%;
+    height: 2rem;
+    
+}
+.Second div{
+    display: flex;
+    flex-direction: row;
+    align-items:center;
+    
+}
+
+#comment-author{
+    width: 1.2rem;
+    height:auto;
+}
+#comment-comments{
+    width: 1.2rem;
+    height:auto;
+}
+.Secondary{
+    
+    display: none;
+    
+}
+.Secondary-comment{
+    margin-left: 3vw;
+}

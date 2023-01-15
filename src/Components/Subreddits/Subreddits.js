@@ -45,6 +45,8 @@ class Subreddits extends React.Component{
                     <input placeholder="Add Subreddits" onChange={this.handleTermChange} onKeyPress={this.handleKeypress}></input>
                     <button onClick={this.handleAdd}><img src={Add}alt='Add'/></button>
                 </div>
+                <a href ="https://abrahamcrewson.github.io/portfolio">Check out my other projects!</a>
+
             </div>
         );
     }

@@ -35,3 +35,9 @@
     height: 1.5rem;
     width: auto;
 }
+#Subreddits a{
+    color: rgba(0, 0, 0, 0.769);
+    
+    margin-left: 1rem;
+
+}

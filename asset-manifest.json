@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/reddit-client/static/css/main.074f033e.css",
-    "main.js": "/reddit-client/static/js/main.4d9003a0.js",
+    "main.css": "/reddit-client/static/css/main.d1132614.css",
+    "main.js": "/reddit-client/static/js/main.82ae53c0.js",
     "static/js/787.7f23f44b.chunk.js": "/reddit-client/static/js/787.7f23f44b.chunk.js",
     "static/media/loading.gif": "/reddit-client/static/media/loading.5f4eb8e5308d49d03d51.gif",
     "static/media/author.png": "/reddit-client/static/media/author.e95ba02f04a6bb9b02c8.png",
     "static/media/logo.png": "/reddit-client/static/media/logo.1ba9e70921da4c03ef2d.png",
     "static/media/search.png": "/reddit-client/static/media/search.a27091ef0c45faf8a66e.png",
     "index.html": "/reddit-client/index.html",
-    "main.074f033e.css.map": "/reddit-client/static/css/main.074f033e.css.map",
-    "main.4d9003a0.js.map": "/reddit-client/static/js/main.4d9003a0.js.map",
+    "main.d1132614.css.map": "/reddit-client/static/css/main.d1132614.css.map",
+    "main.82ae53c0.js.map": "/reddit-client/static/js/main.82ae53c0.js.map",
     "787.7f23f44b.chunk.js.map": "/reddit-client/static/js/787.7f23f44b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.074f033e.css",
-    "static/js/main.4d9003a0.js"
+    "static/css/main.d1132614.css",
+    "static/js/main.82ae53c0.js"
   ]
 }
